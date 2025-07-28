@@ -12,7 +12,7 @@ def calculator():
         if num2 != 0:
             result = num1 / num2
         else:
-            print("Error: Cannot divide by zero.")
+            print("Cannot divide by zero.")
             
     else:
         print("Invalid operator.")
